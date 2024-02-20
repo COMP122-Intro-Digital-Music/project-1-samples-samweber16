@@ -1,19 +1,20 @@
 [
-  {
-    "name": "SS_SD_90_synth_lion_pad_Amin.mp3",
-    "file": "https://github.com/COMP122-Intro-Digital-Music/project-1-samples-samweber16/tree/fbd26b6ecd28b047ae7f03932d18c5c3bf4015b9/samples.mp3",
-    "bpm": "90",
-    "loop": "1m"
-  },
-  {
-    "name": "SS_SD_90_synth_lion_pad_Amin.mp3",
-    "file": "sampleshttps://github.com/COMP122-Intro-Digital-Music/project-1-samples-samweber16/tree/fbd26b6ecd28b047ae7f03932d18c5c3bf4015b9/samples.mp3",
-    "bpm": "90",
-    "loop": "1m"
-  },
-  {
-    "name": "VLF_90_drum_loop_giants (1).mp3",
-    "file": "sampleshttps://github.com/COMP122-Intro-Digital-Music/project-1-samples-samweber16/tree/fbd26b6ecd28b047ae7f03932d18c5c3bf4015b9/samples/.mp3",
-    "bpm": "90",
-    "loop": "1m" }
-
+    {
+        "name": "90_synth_loop_imsorry_Amin",
+        "file": "https://github.com/COMP122-Intro-Digital-Music/project-1-samples-samweber16/tree/48fe92c824abde9420d9bfe0498cfd2857c51541/samples90_synth_loop_imsorry_Amin.mp3",
+        "bpm": "90",
+        "loop": "1m"
+    },
+    {
+        "name": "SS_SD_90_synth_lion_pad_Amin",
+        "file": "sampleshttps://github.com/COMP122-Intro-Digital-Music/project-1-samples-samweber16/tree/48fe92c824abde9420d9bfe0498cfd2857c51541/samplesSS_SD_90_synth_lion_pad_Amin.mp3",
+        "bpm": "90",
+        "loop": "1m"
+    },
+    {
+        "name": "VLF_90_drum_loop_giants (1)",
+        "file": "sampleshttps://github.com/COMP122-Intro-Digital-Music/project-1-samples-samweber16/tree/48fe92c824abde9420d9bfe0498cfd2857c51541/samplesVLF_90_drum_loop_giants (1).mp3",
+        "bpm": "90",
+        "loop": "1m"
+    }
+]
