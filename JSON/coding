@@ -1,19 +1,19 @@
 [
     {
         "name": "90_synth_loop_imsorry_Amin",
-        "file": "samples/GOLDHOUSE_90_synth_loop_imsorry_Amin.mp3"
+        "file": "scripts/Synth_pad_90.mp3"
         "bpm": "90",
         "loop": "1m"
     },
     {
         "name": "SS_SD_90_synth_lion_pad_Amin",
-        "file": "samples/SS_SD_90_synth_lion_pad_Amin.mp3"
+        "file": "scripts/synth_lead_90.mp3"
         "bpm": "90",
         "loop": "1m"
     },
     {
         "name": "VLF_90_drum_loop_giants (1)",
-        "file": "samples/VLF_90_drum_loop_giants (1).mp3
+        "file": "scripts/VLF_90_drum_loop_giants(1).mp3
         "bpm": "90",
         "loop": "1m"
     }
