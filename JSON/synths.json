@@ -1,1 +1,54 @@
-[ ]
+[
+  {
+    "name": "feb29",
+    "type": "Synth",
+    "settings": {
+      "detune": "0",
+      "portamento": "0.5",
+      "volume": "-9",
+      "oscillator": {
+        "type": "sine",
+        "phase": 0,
+        "partialCount": "0",
+        "partials": []
+      },
+      "envelope": {
+        "attack": "0.12",
+        "attackCurve": "linear",
+        "decay": "0.1",
+        "decayCurve": "linear",
+        "sustain": "0.5",
+        "release": "1.5",
+        "releaseCurve": "linear"
+      }
+    }
+  },
+  {
+    "name": "springbreak",
+    "type": "Synth",
+    "settings": {
+      "detune": "0",
+      "portamento": "0.5",
+      "volume": "-3",
+      "oscillator": {
+        "type": "fatcustom",
+        "phase": 0,
+        "partialCount": "1",
+        "partials": [
+          "0.98"
+        ],
+        "count": "4",
+        "spread": "22"
+      },
+      "envelope": {
+        "attack": "0.1",
+        "attackCurve": "linear",
+        "decay": "0.1",
+        "decayCurve": "linear",
+        "sustain": "0.5",
+        "release": "1.5",
+        "releaseCurve": "linear"
+      }
+    }
+  }
+]

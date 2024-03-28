@@ -1,0 +1,20 @@
+[
+  {
+    "name": "Synth_pad_90",
+    "file": "samples/Synth_pad_90.mp3",
+    "bpm": "90",
+    "loop": "4m"
+  },
+  {
+    "name": "VLF_90_drum_loop_giants (1)",
+    "file": "samples/VLF_90_drum_loop_giants (1).mp3",
+    "bpm": "90",
+    "loop": "4m"
+  },
+  {
+    "name": "synth_lead_90",
+    "file": "samples/synth_lead_90.mp3",
+    "bpm": "90",
+    "loop": "4m"
+  }
+]
